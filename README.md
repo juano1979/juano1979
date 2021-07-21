@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juano1979
-- 👀 I’m interested in web and mobile development
+- 👀 I’m interested in web and mobile development and testing
 - 🌱 I’m currently learning flutter, js
 - 💞️ I’m looking to collaborate on web projects
 - 📫 How to reach me, send an email to juano1979@outlook.es
